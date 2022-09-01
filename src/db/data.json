@@ -1,0 +1,125 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "id": 1
+    },
+    {
+      "day": 2,
+      "id": 2
+    },
+    {
+      "day": 3,
+      "id": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    }
+  ],
+  "voca": [
+    {
+      "eng": "lion",
+      "kor": "사자",
+      "isDone": false,
+      "id": 1,
+      "day": 2
+    },
+    {
+      "eng": "tiger",
+      "kor": "호랑이",
+      "isDone": false,
+      "id": 2,
+      "day": 2
+    },
+    {
+      "eng": "rabbit",
+      "kor": "토끼",
+      "id": 3,
+      "day": 1,
+      "isDone": false
+    },
+    {
+      "eng": "dog",
+      "kor": "강아지",
+      "isDone": false,
+      "id": 4,
+      "day": 1
+    },
+    {
+      "eng": "horse",
+      "kor": "말",
+      "isDone": false,
+      "id": 5,
+      "day": 3
+    },
+    {
+      "eng": "hippo",
+      "kor": "하마",
+      "isDone": false,
+      "id": 6,
+      "day": 3
+    },
+    {
+      "eng": "eagle",
+      "kor": "독수리",
+      "day": "4",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "eng": "turtle",
+      "kor": "거북이",
+      "day": "4",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "eng": "fish",
+      "kor": "물고기",
+      "day": "5",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "eng": "cow",
+      "kor": "소",
+      "day": "5",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "eng": "bear",
+      "kor": "곰",
+      "day": "1",
+      "isDone": false,
+      "id": 11
+    },
+    {
+      "eng": "snake",
+      "kor": "뱀",
+      "day": "5",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "eng": "sheep",
+      "kor": "양",
+      "day": "6",
+      "isDone": false,
+      "id": 13
+    }
+  ]
+}
