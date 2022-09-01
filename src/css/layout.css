@@ -154,16 +154,16 @@ li {
   flex-direction: column;
 }
 .vocas li {
+  background-color: #fff;
+  margin: 10px 0;
   height: 50px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
   display: flex;
   position: relative;
   align-items: center;
   color: #111;
-  background-color: #fff;
-  margin: 10px 0;
-  padding: 20px;
-  border-radius: 5px;
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
   transition: background 0.25s ease;
 }
 .vocas li.done {
@@ -207,8 +207,10 @@ li {
 #footer {
   display: flex;
   justify-content: center;
+  margin-top: 100px;
 }
 #footer p {
+  font-weight: 300;
   padding: 15px 30px;
   background: #d8d8d8;
   border-radius: 100px;
@@ -216,4 +218,11 @@ li {
 }
 #footer p strong {
   font-weight: 900;
+}
+
+@media all and (max-width: 1200px) {
+  .container {
+    width: 100%;
+    padding: 0 20px;
+  }
 }
